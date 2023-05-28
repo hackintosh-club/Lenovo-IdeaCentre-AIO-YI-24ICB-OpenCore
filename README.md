@@ -1,4 +1,4 @@
-# Lenovo-IdeaCentre-AIO-YI-24ICB Hackintosh OpenCore EFI
+# IdeaCentre-AIO-YI-24ICB Hackintosh OpenCore EFI
 
 ![image](ScreenShot/AIOYI24ICB.png)
 
