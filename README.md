@@ -64,7 +64,7 @@ Startup
  
  - U Must Use CFGLock.efi Tool Unlock CFG LOCK first
  
-![image](Screenshot/CFGLock.efi.png)
+![image](ScreenShot/CFGLock.efi.png)
 
 
 ### Known issues
@@ -75,7 +75,7 @@ Startup
  
 ### ScreenShot 
 
-![macOS Ventura](Screenshot/about.png)
+![macOS Ventura](ScreenShot/about.png)
 
 ### Contact Us
 

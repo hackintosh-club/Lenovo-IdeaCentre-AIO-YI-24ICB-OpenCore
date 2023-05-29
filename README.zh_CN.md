@@ -64,7 +64,7 @@
  
  - 安装前务必使用CFGLock.efi工具解锁 CFG LOCK
  
-![image](Screenshot/CFGLock.efi.png)
+![image](ScreenShot/CFGLock.efi.png)
 
 
 ### 已知问题
@@ -76,7 +76,7 @@
  
 ### 系统截图
 
-![macOS Ventura](Screenshot/about.png)
+![macOS Ventura](ScreenShot/about.png)
 
 ### 联系我们
 
