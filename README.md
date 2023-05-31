@@ -1,6 +1,6 @@
 # IdeaCentre-AIO-YI-24ICB Hackintosh OpenCore EFI
 
-![image](ScreenShot/AIOYI24ICB.png)
+![image](ScreenShot/AIOYI24ICB.jpg)
 
 ### [简体中文](README.zh_CN.md)
 
@@ -75,7 +75,7 @@ Startup
  
 ### ScreenShot 
 
-![macOS Ventura](ScreenShot/about.png)
+![macOS Ventura](ScreenShot/about.jpg)
 
 ### Contact Us
 

@@ -1,6 +1,6 @@
 # 联想 IdeaCentre-AIO-逸-24ICB 黑苹果 OpenCore EFI
 
-![image](ScreenShot/AIOYI24ICB.png)
+![image](ScreenShot/AIOYI24ICB.jpg)
 
 ### [English](https://github.com/hackintosh-efi/Lenovo-IdeaCentre-AIO-YI-24ICB-OpenCore)
 
@@ -76,7 +76,7 @@
  
 ### 系统截图
 
-![macOS Ventura](ScreenShot/about.png)
+![macOS Ventura](ScreenShot/about.jpg)
 
 ### 联系我们
 
