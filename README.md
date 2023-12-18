@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -61,9 +61,9 @@ Startup
 ### Notes
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
- 
+
  - U Must Use CFGLock.efi Tool Unlock CFG LOCK first
- 
+
 ![image](ScreenShot/CFGLock.efi.png)
 
 
@@ -72,7 +72,7 @@ Startup
 - `WiFi` and `Bluetooth` unserviceable with Realtek RTL8821CE .
 - `HDMI` Port unserviceable .
 
- 
+
 ### ScreenShot 
 
 ![macOS Ventura](ScreenShot/about.jpg)

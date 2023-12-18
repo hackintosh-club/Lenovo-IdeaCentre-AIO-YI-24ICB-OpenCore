@@ -134,6 +134,8 @@
                 <true/>
                 <key>EnableWriteUnprotector</key>
                 <false/>
+                <key>FixupAppleEfiImages</key>
+                <false/>
                 <key>ForceBooterSignature</key>
                 <false/>
                 <key>ForceExitBootServices</key>
@@ -198,7 +200,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.5</string>
+                    <string>V1.6.7</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -216,7 +218,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.1</string>
+                    <string>V1.3.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -234,7 +236,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.4</string>
+                    <string>V1.6.6</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -252,7 +254,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.2</string>
+                    <string>V1.8.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -270,7 +272,7 @@
                     <key>BundlePath</key>
                     <string>SMCSuperIO.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.1</string>
+                    <string>V1.3.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -288,7 +290,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.1</string>
+                    <string>V1.3.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -306,7 +308,7 @@
                     <key>BundlePath</key>
                     <string>NVMeFix.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.0</string>
+                    <string>V1.1.1</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -552,6 +554,8 @@
                 <false/>
                 <key>HideAuxiliary</key>
                 <true/>
+                <key>InstanceIdentifier</key>
+                <string></string>
                 <key>LauncherOption</key>
                 <string>Full</string>
                 <key>LauncherPath</key>
@@ -793,13 +797,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02938100J9KGQGCB</string>
+                <string>C021111014NKGQG1H</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>0</integer>
                 <key>ROM</key>
-                <data>4yTinPpi</data>
+                <data>paYcbVsd</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -807,9 +811,9 @@
                 <key>SystemProductName</key>
                 <string>iMac19,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02ZF9Y0JWDW</string>
+                <string>C02FFVZCJWDW</string>
                 <key>SystemUUID</key>
-                <string>62AFB282-D403-45EE-957F-D921379CFA62</string>
+                <string>33CC792F-302C-4FC2-BC41-22BD9AB93909</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
@@ -935,7 +939,7 @@
                 </dict>
                 <dict>
                     <key>Arguments</key>
-                    <string></string>
+                    <string>--preserve-boot</string>
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
@@ -981,6 +985,8 @@
             <dict>
                 <key>ClearScreenOnModeSwitch</key>
                 <false/>
+                <key>ConsoleFont</key>
+                <string></string>
                 <key>ConsoleMode</key>
                 <string></string>
                 <key>DirectGopRendering</key>
@@ -1050,6 +1056,8 @@
                 <false/>
                 <key>OSInfo</key>
                 <false/>
+                <key>PciIo</key>
+                <false/>
                 <key>UnicodeCollation</key>
                 <false/>
             </dict>
@@ -1060,7 +1068,7 @@
                 <key>DisableSecurityPolicy</key>
                 <false/>
                 <key>EnableVectorAcceleration</key>
-                <false/>
+                <true/>
                 <key>EnableVmx</key>
                 <false/>
                 <key>ExitBootServicesDelay</key>
@@ -1080,6 +1088,8 @@
                 <key>ResizeGpuBars</key>
                 <integer>-1</integer>
                 <key>ResizeUsePciRbIo</key>
+                <false/>
+                <key>ShimRetainProtocol</key>
                 <false/>
                 <key>TscSyncTimeout</key>
                 <integer>0</integer>

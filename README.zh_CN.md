@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 ### MacOS已测试版本
 
@@ -61,9 +61,9 @@
 
 ### 注意事项
  - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
- 
+
  - 安装前务必使用CFGLock.efi工具解锁 CFG LOCK
- 
+
 ![image](ScreenShot/CFGLock.efi.png)
 
 
@@ -73,7 +73,7 @@
 
 - `HDMI` 接口无法输入信号 .
 
- 
+
 ### 系统截图
 
 ![macOS Ventura](ScreenShot/about.jpg)
